@@ -1,11 +1,5 @@
 # staking-contract
 
-| Chain               | Address                   |
-| ------------------- | ------------------------- |
-| Ethereum            | [0xf9b8ef1a9845a365405930ce5e9faacb187a06da](https://etherscan.io/address/0xf9b8ef1a9845a365405930ce5e9faacb187a06da)|
-| Binance Smart Chain | [0xdAf8Ec4eE29a760861b1448a1eF114999de672fA](https://bscscan.com/address/0xdAf8Ec4eE29a760861b1448a1eF114999de672fA) |
-
-
 
 ## pools
 
